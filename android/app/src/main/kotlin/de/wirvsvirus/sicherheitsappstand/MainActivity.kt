@@ -1,4 +1,4 @@
-package de.wirvsvirus.sicherheitsappstandv2
+package de.wirvsvirus.sicherheitsappstand
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
